@@ -1,0 +1,1 @@
+Docker image based on [phusion/baseimage](https://hub.docker.com/r/phusion/baseimage/) with Pyhton2, ready to play with new Ansible features.
