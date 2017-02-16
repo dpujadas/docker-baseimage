@@ -1,0 +1,1 @@
+Cloned from deprecated [ubuntu-upstart](https://hub.docker.com/_/ubuntu-upstart/)
