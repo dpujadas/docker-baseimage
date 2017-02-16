@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20160818
+FROM ubuntu:xenial
 
 ENV container docker
 
